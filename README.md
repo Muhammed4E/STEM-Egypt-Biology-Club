@@ -41,7 +41,7 @@ Welcome to the repository for the Biology Club website of STEM High School for B
 
 ## Customization
 
-Feel free to customize the content and styling to match the specifics of your School Biology Club. Update text, images, and colors in the corresponding files.
+Feel free to customize the content and styling to match the specifics of your own school biology club. Update text, images, and colors in the corresponding files.
 
 ## Contributions
 
