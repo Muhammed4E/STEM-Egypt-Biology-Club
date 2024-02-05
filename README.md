@@ -1,5 +1,7 @@
 # Biology Club Website - STEM High School for Boys
 
+![Project Mockup](https://github.com/Muhammed4E/[reponame]/STEM-Egypt-Biology-Club/images/mockup.png?raw=true)
+
 Welcome to the repository for the Biology Club website of STEM High School for Boys in 6th of October! This static website is designed to showcase the activities, events, and information related to the Biology Club at our school.
 
 ## Technologies Used
