@@ -8,8 +8,6 @@ Welcome to the repository for the Biology Club website of STEM High School for B
 - CSS (Sass)
 - JavaScript (jQuery)
 - Bootstrap
-- Font Awesome
-- Mixins
 
 ## Features
 
@@ -33,8 +31,10 @@ Welcome to the repository for the Biology Club website of STEM High School for B
 - `index.html`: Main HTML file for the website.
 - `css/`: Contains stylesheets, with Sass files in the `scss/` directory.
 - `js/`: JavaScript files.
-- `vendor/`: External libraries and dependencies.
-- `img/`: Image assets used in the website.
+- `icons/`: Contain's integrations for flaticon and icomoon
+- `magazines/`: Contains PDFs for the club's magazines.
+- `research/`: Contains PDFs for the club's research papers.
+- `images/`: Image assets used in the website.
 
 ## Customization
 
