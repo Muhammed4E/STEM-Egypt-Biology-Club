@@ -24,7 +24,7 @@ Welcome to the repository for the Biology Club website of STEM High School for B
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/biology-club-website.git
+   git clone https://github.com/Muhammed4E/STEM-Egypt-Biology-Club.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
